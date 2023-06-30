@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948732785751",
+    "project_id": "proacademy-lms",
+    "storage_bucket": "proacademy-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948732785751:android:ec639ff912a398c5135f12",
+        "android_client_info": {
+          "package_name": "com.proacademy.procadamylms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948732785751-g31pge0jd5l2798hev62lqmc3epkvhn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_kOFL7o5J0n8Aqc6r15eqcAPcjYc2Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948732785751-g31pge0jd5l2798hev62lqmc3epkvhn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
